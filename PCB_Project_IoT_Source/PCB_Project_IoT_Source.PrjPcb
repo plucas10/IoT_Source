@@ -84,40 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JJOVKRSE
 
 [Document3]
-DocumentPath=Schematics\Sheet4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XTOHALYN
-
-[Document4]
-DocumentPath=Schematics\Sheet3_Source.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KBNCAZNK
-
-[Document5]
 DocumentPath=Layout\PCB_IoT_Source.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOKGMOSI
 
-[Document6]
+[Document4]
 DocumentPath=BoM\PCB_Project_IoT_Source.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document5]
 DocumentPath=Layout\Draftsman.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEEGAJLM
 
-[Document8]
+[Document6]
 DocumentPath=Jobs\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=Libraries\Schlib1_Symbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDBYETCO
 
-[Document10]
+[Document8]
 DocumentPath=Libraries\Schlib_Source_IoT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWUXMANU
 
-[Document11]
+[Document9]
 DocumentPath=Libraries\PcbLib1_Symbol.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKIGWLWC
 
-[Document12]
+[Document10]
 DocumentPath=Libraries\PcbLib2_Iot_source.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,6 +218,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAVUTAIV
+
+[ProjectVariant1]
+UniqueId=f4440093-f68f-46fa-8f72-86d2bc3946e3
+Description=Assembly
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
