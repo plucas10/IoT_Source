@@ -67,6 +67,74 @@ GenerateClassCluster=0
 DocumentUniqueId=DWEKGWOA
 
 [Document2]
+DocumentPath=Schematics\Sheet3_Buck.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GKXRHDTS
+
+[Document3]
+DocumentPath=Schematics\Sheet4_Carregador_Bateria.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WVIBFBVK
+
+[Document4]
+DocumentPath=Schematics\Sheet5_Proteção_Bateria.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TUTIWJUA
+
+[Document5]
+DocumentPath=Schematics\Sheet6_Power_Path.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JIWXYEQR
+
+[Document6]
 DocumentPath=Schematics\Sheet2_Hierarquia.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJOVKRSE
 
-[Document3]
+[Document7]
 DocumentPath=Layout\PCB_IoT_Source.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOKGMOSI
 
-[Document4]
+[Document8]
 DocumentPath=BoM\PCB_Project_IoT_Source.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document9]
 DocumentPath=Layout\Draftsman.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEEGAJLM
 
-[Document6]
+[Document10]
 DocumentPath=Jobs\Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document11]
 DocumentPath=Libraries\Schlib1_Symbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDBYETCO
 
-[Document8]
+[Document12]
 DocumentPath=Libraries\Schlib_Source_IoT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWUXMANU
 
-[Document9]
+[Document13]
 DocumentPath=Libraries\PcbLib1_Symbol.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKIGWLWC
 
-[Document10]
+[Document14]
 DocumentPath=Libraries\PcbLib2_Iot_source.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -228,32 +296,32 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=TituloProjeto
-Value=Fonte Padrão IoT
+Name=Conta
+Value=Virtus CC
 
 [Parameter2]
-Name=Rev
-Value=v.0.1
+Name=NumeroContrato
+Value=1° Contrato
 
 [Parameter3]
-Name=Revisor
-Value=Fulano de tal
+Name=Projetista
+Value=Pedro Lucas Rodrigues
 
 [Parameter4]
 Name=Projeto
 Value=Virtus CC
 
 [Parameter5]
-Name=Projetista
-Value=Pedro Lucas Rodrigues
+Name=Rev
+Value=v.0.1
 
 [Parameter6]
-Name=NumeroContrato
-Value=1° Contrato
+Name=Revisor
+Value=Fulano de tal
 
 [Parameter7]
-Name=Conta
-Value=Virtus CC
+Name=TituloProjeto
+Value=Fonte Padrão IoT
 
 [Configuration1]
 Name=Sources
