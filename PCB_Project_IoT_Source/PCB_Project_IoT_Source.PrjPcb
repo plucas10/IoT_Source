@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DWEKGWOA
 
 [Document2]
+DocumentPath=Schematics\Sheet2_Hierarquia.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JJOVKRSE
+
+[Document3]
 DocumentPath=Schematics\Sheet3_Buck.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKXRHDTS
 
-[Document3]
+[Document4]
 DocumentPath=Schematics\Sheet4_Carregador_Bateria.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVIBFBVK
 
-[Document4]
+[Document5]
 DocumentPath=Schematics\Sheet5_Proteção_Bateria.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUTIWJUA
 
-[Document5]
+[Document6]
 DocumentPath=Schematics\Sheet6_Power_Path.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,23 +150,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIWXYEQR
-
-[Document6]
-DocumentPath=Schematics\Sheet2_Hierarquia.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JJOVKRSE
 
 [Document7]
 DocumentPath=Layout\PCB_IoT_Source.PcbDoc
