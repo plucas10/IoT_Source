@@ -1,6 +1,6 @@
-Record=TopLevelDocument|FileName=Sheet1_Diagrama.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet2_Hierarquia.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet3_Buck.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet4_Carregador_Bateria.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet5_Proteção_Bateria.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet6_Power_Path.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=Sheet2_Hierarquia.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sheet3_Buck.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sheet3_Buck.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sheet6_Power_Path.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Sheet6_Power_Path.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sheet5_Proteção_Bateria.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Sheet5_Proteção_Bateria.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet2_Hierarquia.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sheet4_Carregador_Bateria.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sheet4_Carregador_Bateria.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Sheet2_Hierarquia.SchDoc|FileName=Sheet1_Diagrama.SchDoc|SheetNumber=1
