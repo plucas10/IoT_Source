@@ -1,2 +1,6 @@
 Record=TopLevelDocument|FileName=Sheet1_Diagrama.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet2_Hierarquia.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet3_Buck.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet4_Carregador_Bateria.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet5_Proteção_Bateria.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Sheet1_Diagrama.SchDoc|FileName=Sheet6_Power_Path.SchDoc|SheetNumber=6
